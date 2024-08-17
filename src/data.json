@@ -1,0 +1,44 @@
+{
+  "Category1": [
+    {
+      "name": "C1Widget1",
+      "text": "text1",
+      "add": true
+    },
+    {
+      "name": "C1Widget2",
+      "text": "text2",
+      "add": true
+    }
+    
+  ],
+  "Category2": [
+    {
+      "name": "C2W1",
+      "text": "text1",
+      "add": false
+    }
+   
+  ],
+  "Category3": [
+    {
+      "name": "C3W1",
+      "text": "text1",
+      "add": true
+    },
+    {
+      "name": "C3W2",
+      "text": "text2",
+      "add": true
+    }
+   
+  ],
+  "Category4": [
+    {
+      "name": "C4W1",
+      "text": "text1",
+      "add": true
+    }
+    
+  ]
+}
